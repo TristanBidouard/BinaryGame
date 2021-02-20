@@ -1,0 +1,13 @@
+Gate:NOT:50:51
+Gate:NAND:54,55:56
+Gate:NOT:46:47
+Node:main_input:61:0
+Node:main_input:62:0
+Node:main_output:59:56
+Node:input:50:61
+Node:output:51:0
+Node:input:54:51
+Node:input:55:47
+Node:output:56:0
+Node:input:46:62
+Node:output:47:0

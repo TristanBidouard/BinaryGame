@@ -1,0 +1,10 @@
+Gate:NOT:2005:2006
+Gate:OR:2051,2052:2053
+Node:main_input:2000:0
+Node:main_input:2001:0
+Node:main_output:2002:2006
+Node:input:2005:2053
+Node:output:2006:0
+Node:input:2051:2000
+Node:input:2052:2001
+Node:output:2053:0

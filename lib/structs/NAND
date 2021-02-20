@@ -1,0 +1,10 @@
+Gate:NOT:15:16
+Gate:AND:10,11:12
+Node:main_input:18:0
+Node:main_input:19:0
+Node:main_output:20:16
+Node:input:15:12
+Node:output:16:0
+Node:input:10:18
+Node:input:11:19
+Node:output:12:0

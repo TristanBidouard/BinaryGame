@@ -1,0 +1,10 @@
+Gate:OR:77,78:79
+Gate:NOT:84:85
+Node:main_input:80:0
+Node:main_input:81:0
+Node:main_output:86:85
+Node:input:77:80
+Node:input:78:81
+Node:output:79:0
+Node:input:84:79
+Node:output:85:0
